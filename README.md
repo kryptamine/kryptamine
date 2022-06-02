@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Alexander
 
-- 🇷🇺 I live in Russian, Novosibirsk.
+- 🇧🇬 I live in Bulgaria, Sofia.
 - 🐘 I'm a software developer at [Plesk](https://plesk.com).
 - 🤖 Most of the time I'm writing on PHP and Typescript.
 - ✉️ You can shoot me an email at [satretdinov@icloud.com](mailto:satretdinov@icloud.com).
