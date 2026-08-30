@@ -3,7 +3,7 @@
 - 🇧🇬 I live in Bulgaria, Sofia.
 - 🐘 I'm a software developer at [Webpros](https://www.webpros.com/).
 - 🤖 Most of the time I'm writing on Go and Typescript.
-- ✉️ You can shoot me an email at [satretdinov@icloud.com](mailto:satretdinov@icloud.com).
+- ✉️ You can shoot me an email at [satretdinovalexander@gmail.com](satretdinovalexander@gmail.com).
 
 ## 📊 Github Stats
 <a href="https://github.com/kryptamine">
