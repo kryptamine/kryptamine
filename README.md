@@ -6,10 +6,11 @@
 - ✉️ You can shoot me an email at [satretdinovalexander@gmail.com](satretdinovalexander@gmail.com).
 
 ## 📊 Github Stats
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=kryptamine&show_icons=true&theme=dark&count_private=true&cache_seconds=3600" alt="kryptamine's GitHub Stats" />
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kryptamine&theme=dark&layout=compact"
-  alt="kryptamine's GitHub Top Languages" />
-
+<a href="https://github.com/kryptamine">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=kryptamine&show_icons=true&theme=dark&count_private=true&cache_seconds=3600" alt="kryptamine's GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kryptamine&theme=dark&layout=compact"
+    alt="kryptamine's GitHub Top Languages" />
+</a>
 
 ## 🛠 My fancy badge area
 
