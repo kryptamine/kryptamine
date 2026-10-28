@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:satretdinovalexander@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/kryptamine"><img src="https://img.shields.io/github/followers/kryptamine?style=flat-square&logo=github&label=Followers" alt="GitHub followers" /></a>
-</p>
-
-<p align="center">
   <a href="https://satretdinov.dev">
     <img src="https://img.shields.io/badge/🌐_More_about_me-satretdinov.dev-0A66C2?style=for-the-badge" alt="More about me at satretdinov.dev" />
   </a>
