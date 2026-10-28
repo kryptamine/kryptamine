@@ -19,7 +19,6 @@
 
 - 🤖 Most of the time I write **Go** and **TypeScript**
 - 🌐 Background in full-stack web: React, Node.js, PHP / Laravel
-- 🗄️ Comfortable with PostgreSQL and backend system design
 - ✉️ Feel free to reach out at [satretdinovalexander@gmail.com](mailto:satretdinovalexander@gmail.com)
 
 ## 📊 GitHub stats
