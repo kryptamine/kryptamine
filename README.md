@@ -1,25 +1,65 @@
-# Hi there 👋 I'm Alexander
+<h1 align="center">Hi there 👋 I'm Alexander</h1>
 
-- 🇧🇬 I live in Bulgaria, Sofia.
-- 🐘 I'm a software developer at [Webpros](https://www.webpros.com/).
-- 🤖 Most of the time I'm writing on Go and Typescript.
-- ✉️ You can shoot me an email at [satretdinovalexander@gmail.com](satretdinovalexander@gmail.com).
+<p align="center">
+  Software developer at <a href="https://www.webpros.com/">WebPros</a> · based in Sofia, Bulgaria 🇧🇬
+</p>
 
-## 📊 Github Stats
-<a href="https://github.com/kryptamine">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=kryptamine&show_icons=true&theme=dark&count_private=true&cache_seconds=3600" alt="kryptamine's GitHub Stats" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kryptamine&theme=dark&layout=compact"
-    alt="kryptamine's GitHub Top Languages" />
-</a>
+<p align="center">
+  <a href="mailto:satretdinovalexander@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/kryptamine"><img src="https://img.shields.io/github/followers/kryptamine?style=flat-square&logo=github&label=Followers" alt="GitHub followers" /></a>
+</p>
 
-## 🛠 My fancy badge area
+<p align="center">
+  <a href="https://satretdinov.dev">
+    <img src="https://img.shields.io/badge/🌐_More_about_me-satretdinov.dev-0A66C2?style=for-the-badge" alt="More about me at satretdinov.dev" />
+  </a>
+</p>
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🧑‍💻 About me
+
+- 🤖 Most of the time I write **Go** and **TypeScript**
+- 🌐 Background in full-stack web: React, Node.js, PHP / Laravel
+- 🗄️ Comfortable with PostgreSQL and backend system design
+- ✉️ Feel free to reach out at [satretdinovalexander@gmail.com](mailto:satretdinovalexander@gmail.com)
+
+## 🛠 Tech stack
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Frameworks & runtimes**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📊 GitHub stats
+
+<p align="center">
+  <a href="https://github.com/kryptamine?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=kryptamine&show_icons=true&count_private=true&hide_border=true&theme=github_dark&cache_seconds=3600" />
+      <img height="170" src="https://github-stats-extended.vercel.app/api?username=kryptamine&show_icons=true&count_private=true&hide_border=true&theme=default&cache_seconds=3600" alt="kryptamine's GitHub stats" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kryptamine&layout=compact&hide_border=true&theme=github_dark&cache_seconds=3600" />
+      <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kryptamine&layout=compact&hide_border=true&theme=default&cache_seconds=3600" alt="kryptamine's top languages" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kryptamine&theme=github-dark-blue&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=kryptamine&hide_border=true" alt="kryptamine's GitHub streak" />
+  </picture>
+</p>
